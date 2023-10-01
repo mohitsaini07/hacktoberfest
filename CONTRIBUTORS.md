@@ -1,3 +1,8 @@
+#### Name: Mohit Saini(https://github.com/mohitsaini07)
+- Place: Khurja, Uttarpradesh, India
+- Bio: Frontend Developer & Ui/Ux Designer. Currently, pursuing BCA-IInd Year 
+- GitHub: [Mohit Saini](https://github.com/mohitsaini07)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
